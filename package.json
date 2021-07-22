@@ -38,6 +38,6 @@
 	},
 	"dependencies": {
 		"electron-connect": "^0.6.3",
-		"xlsx": "^0.16.2"
+		"xlsx": "^0.17.0"
 	}
 }
